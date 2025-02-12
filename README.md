@@ -12,11 +12,16 @@ Home Page:
 Highlight WaysAhead Global’s mission & expertise.
 Include interactive sections showcasing AI & Data Analytics solutions.
 Feature a dynamic news/updates section.
+
 About Us Page:
+
 Company background, mission, vision, and leadership team.
 Display the global presence & offices dynamically.
+
 Services Page:
+
 Detail AI-driven solutions like:
+
 AI Shop Assist
 Geo-Spatial Analytics
 In-Store Analytics
@@ -24,27 +29,41 @@ SCM Analytics
 Video Analytics
 Robotics
 Interactive service showcase (e.g., hover animations, case study links).
+
 Use Cases Page:
+
 Cover industry applications (e.g., Fintech, Retail, F&B, Mobility, Entertainment).
 Link each use case to detailed project insights.
+
 Careers Page:
+
 Live job listings (dynamic API-based).
 Categories: Internships, Graduate Roles, Experienced Professionals.
 Apply Now button with file upload (resume submission).
+
 Contact Page:
+
 Global contact information (interactive map optional).
 Dynamic contact form with email notifications.
+
 News & Media Page:
+
 Latest press releases & articles dynamically fetched from the backend.
+
 Chatbot Integration:
+
 Implement a chatbot assistant on the website.
+
 It should be able to:
+
 Answer FAQs about WaysAhead Global.
 Guide users to relevant sections (e.g., "Tell me about services").
 Assist job applicants with application queries.
+
 Bonus: Integrate an AI-powered chatbot using OpenAI API or Rasa for smarter responses.
 
 3. Technical Requirements:
+   
 Frontend (React.js)
 ✅ Modern UI/UX using Material UI / Tailwind CSS / Ant Design.
 ✅ Fully responsive & interactive (animations, transitions).
