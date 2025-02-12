@@ -3,11 +3,11 @@
 ## **Project Overview**  
 This is a full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** web application for **WaysAhead Global**, showcasing AI-driven services, case studies, job listings, and chatbot integration. The project includes:  
 
-Project Requirements:
-1. Core Pages & Features:
-Home Page:
-Highlight WaysAhead Global’s mission & expertise.
-Include interactive sections showcasing AI & Data Analytics solutions.
+#Project Requirements:
+#1. Core Pages & Features:
+#Home Page:
+#Highlight WaysAhead Global’s mission & expertise.
+#Include interactive sections showcasing AI & Data Analytics solutions.
 Feature a dynamic news/updates section.
 About Us Page:
 Company background, mission, vision, and leadership team.
